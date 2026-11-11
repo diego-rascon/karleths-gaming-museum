@@ -1,2 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Press+Start+2P&display=swap');
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+@theme {
+    --color-primary: #7D70BA;
+    --color-secondary: #E59F71;
+    --color-background: #CDDDDD;
+    --color-text: #2E2F2F;
+
+    --font-press-start-2p: "Press Start 2P", sans-serif;
+    --font-pixelify-sans: "Pixelify Sans", sans-serif;
+}
