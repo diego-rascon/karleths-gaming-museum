@@ -1,14 +1,14 @@
 <script lang="ts">
-	import { games } from '../data/games';
 	import Game from './Game.svelte';
+	import type { Game as GameType } from '../types/game';
 
-	const sortedGames = games.toSorted((a, b) => a.releaseDate.localeCompare(b.releaseDate));
+	const { games }: { games: GameType[] } = $props();
 </script>
 
 <main>
 	<section>
 		<ol>
-			{#each sortedGames as game (game.title)}
+			{#each games as game (game.title)}
 				<Game {...game} />
 			{/each}
 		</ol>
