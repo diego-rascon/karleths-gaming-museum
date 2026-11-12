@@ -3,7 +3,6 @@ import type { Game } from "../types/game";
 export const games: Game[] = [
   {
     title: "Kirby's Dream Land",
-    developer: "HAL Laboratory",
     publisher: "Nintendo",
     platform: "Game Boy",
     releaseDate: "1992-04-27",
@@ -16,7 +15,6 @@ export const games: Game[] = [
   },
   {
     title: "Kirby's Dream Land 2",
-    developer: "HAL Laboratory",
     publisher: "Nintendo",
     platform: "Game Boy",
     releaseDate: "1995-03-21",
@@ -29,7 +27,6 @@ export const games: Game[] = [
   },
   {
     title: "Mario's Picross",
-    developer: "Jupiter",
     publisher: "Nintendo",
     platform: "Game Boy",
     releaseDate: "1995-03-14",
@@ -41,7 +38,6 @@ export const games: Game[] = [
   },
   {
     title: "BurgerTime Deluxe",
-    developer: "Data East",
     publisher: "Data East",
     platform: "Game Boy",
     releaseDate: "1991-03-31",
@@ -55,7 +51,6 @@ export const games: Game[] = [
   },
   {
     title: "Catrap",
-    developer: "Asmik Ace Entertainment",
     publisher: "Asmik Ace Entertainment",
     platform: "Game Boy",
     releaseDate: "1990-06-01",
@@ -68,7 +63,6 @@ export const games: Game[] = [
   },
   {
     title: "Mole Mania",
-    developer: "Nintendo EAD",
     publisher: "Nintendo",
     platform: "Game Boy",
     releaseDate: "1996-07-21",
@@ -81,7 +75,6 @@ export const games: Game[] = [
   },
   {
     title: "The Legend of Zelda: Link's Awakening DX",
-    developer: "Nintendo",
     publisher: "Nintendo",
     platform: "Game Boy Color",
     releaseDate: "1998-12-12",
@@ -95,7 +88,6 @@ export const games: Game[] = [
   },
   {
     title: "Shantae",
-    developer: "WayForward Technologies",
     publisher: "Capcom",
     platform: "Game Boy Color",
     releaseDate: "2002-06-02",
@@ -109,7 +101,6 @@ export const games: Game[] = [
   },
   {
     title: "Super Mario Bros. Deluxe",
-    developer: "Nintendo R&D2",
     publisher: "Nintendo",
     platform: "Game Boy Color",
     releaseDate: "1999-04-30",
@@ -121,7 +112,6 @@ export const games: Game[] = [
   },
   {
     title: "Tetris DX",
-    developer: "Nintendo",
     publisher: "Nintendo",
     platform: "Game Boy Color",
     releaseDate: "1998-11-21",
@@ -133,7 +123,6 @@ export const games: Game[] = [
   },
   {
     title: "Harry Potter and the Goblet of Fire",
-    developer: "Magic Pockets",
     publisher: "Electronic Arts",
     platform: "Game Boy Advance",
     releaseDate: "2005-11-08",
@@ -147,7 +136,6 @@ export const games: Game[] = [
   },
   {
     title: "Harry Potter and the Order of the Phoenix",
-    developer: "Magic Pockets",
     publisher: "Electronic Arts",
     platform: "Game Boy Advance",
     releaseDate: "2007-06-25",
@@ -161,7 +149,6 @@ export const games: Game[] = [
   },
   {
     title: "Kurukuru Kururin",
-    developer: "Eighting",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2001-03-21",
@@ -174,7 +161,6 @@ export const games: Game[] = [
   },
   {
     title: "ChuChu Rocket!",
-    developer: "Sonic Team",
     publisher: "Sega",
     platform: "Game Boy Advance",
     releaseDate: "2001-06-11",
@@ -187,7 +173,6 @@ export const games: Game[] = [
   },
   {
     title: "Harry Potter and the Prisoner of Azkaban",
-    developer: "Griptonite Games",
     publisher: "Electronic Arts",
     platform: "Game Boy Advance",
     releaseDate: "2004-05-25",
@@ -201,7 +186,6 @@ export const games: Game[] = [
   },
   {
     title: "Harvest Moon: Friends of Mineral Town",
-    developer: "Victor Interactive Software",
     publisher: "Natsume",
     platform: "Game Boy Advance",
     releaseDate: "2003-04-25",
@@ -214,7 +198,6 @@ export const games: Game[] = [
   },
   {
     title: "Kirby & The Amazing Mirror",
-    developer: "Flagship / Dimps",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2004-04-15",
@@ -228,7 +211,6 @@ export const games: Game[] = [
   },
   {
     title: "The Sims: Bustin' Out",
-    developer: "Griptonite Games",
     publisher: "Electronic Arts",
     platform: "Game Boy Advance",
     releaseDate: "2003-12-16",
@@ -241,7 +223,6 @@ export const games: Game[] = [
   },
   {
     title: "Apotris",
-    developer: "akouzoukos",
     publisher: "akouzoukos",
     platform: "Game Boy Advance",
     releaseDate: "2022-04-28",
@@ -254,7 +235,6 @@ export const games: Game[] = [
   },
   {
     title: "The Legend of Zelda: The Minish Cap",
-    developer: "Capcom / Flagship",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2004-11-04",
@@ -268,7 +248,6 @@ export const games: Game[] = [
   },
   {
     title: "WarioWare, Inc.: Mega Microgame$!",
-    developer: "Nintendo R&D1",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2003-03-21",
@@ -282,7 +261,6 @@ export const games: Game[] = [
   },
   {
     title: "Bookworm",
-    developer: "PopCap Games",
     publisher: "Majesco Entertainment",
     platform: "Game Boy Advance",
     releaseDate: "2003-02-25",
@@ -295,7 +273,6 @@ export const games: Game[] = [
   },
   {
     title: "Advance Wars",
-    developer: "Intelligent Systems",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2001-09-10",
@@ -308,7 +285,6 @@ export const games: Game[] = [
   },
   {
     title: "The Sims 2",
-    developer: "Griptonite Games",
     publisher: "Electronic Arts",
     platform: "Game Boy Advance",
     releaseDate: "2005-10-25",
@@ -321,7 +297,6 @@ export const games: Game[] = [
   },
   {
     title: "The Urbz: Sims in the City",
-    developer: "Griptonite Games",
     publisher: "Electronic Arts",
     platform: "Game Boy Advance",
     releaseDate: "2004-11-09",
@@ -334,7 +309,6 @@ export const games: Game[] = [
   },
   {
     title: "Super Monkey Ball Jr.",
-    developer: "Realtime Associates",
     publisher: "Sega",
     platform: "Game Boy Advance",
     releaseDate: "2002-11-20",
@@ -348,7 +322,6 @@ export const games: Game[] = [
   },
   {
     title: "2 Games in One! Dr. Mario + Puzzle League",
-    developer: "Intelligent Systems",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2005-09-13",
@@ -360,7 +333,6 @@ export const games: Game[] = [
   },
   {
     title: "Avatar: The Last Airbender",
-    developer: "Altron",
     publisher: "THQ",
     platform: "Game Boy Advance",
     releaseDate: "2006-10-10",
@@ -373,7 +345,6 @@ export const games: Game[] = [
   },
   {
     title: "Bomberman Tournament",
-    developer: "Hudson Soft",
     publisher: "Activision",
     platform: "Game Boy Advance",
     releaseDate: "2001-04-27",
@@ -387,7 +358,6 @@ export const games: Game[] = [
   },
   {
     title: "Dr. Sudoku",
-    developer: "Success",
     publisher: "Mastiff",
     platform: "Game Boy Advance",
     releaseDate: "2006-04-06",
@@ -399,7 +369,6 @@ export const games: Game[] = [
   },
   {
     title: "Hamtaro: Ham-Ham Heartbreak",
-    developer: "Pax Softnica",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2002-05-31",
@@ -412,7 +381,6 @@ export const games: Game[] = [
   },
   {
     title: "Mario Kart: Super Circuit",
-    developer: "Intelligent Systems",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2001-07-21",
@@ -425,7 +393,6 @@ export const games: Game[] = [
   },
   {
     title: "Polarium Advance",
-    developer: "Mitchell Corporation",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2005-10-13",
@@ -437,7 +404,6 @@ export const games: Game[] = [
   },
   {
     title: "Mario vs. Donkey Kong",
-    developer: "Nintendo Software Technology",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2004-05-24",
@@ -450,7 +416,6 @@ export const games: Game[] = [
   },
   {
     title: "Puyo Pop",
-    developer: "Sonic Team",
     publisher: "Sega",
     platform: "Game Boy Advance",
     releaseDate: "2001-10-18",
@@ -462,7 +427,6 @@ export const games: Game[] = [
   },
   {
     title: "SimCity 2000",
-    developer: "Full Fat",
     publisher: "Destination Software",
     platform: "Game Boy Advance",
     releaseDate: "2003-11-13",
@@ -475,7 +439,6 @@ export const games: Game[] = [
   },
   {
     title: "Super Mario Advance",
-    developer: "Nintendo R&D2",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2001-06-11",
@@ -487,7 +450,6 @@ export const games: Game[] = [
   },
   {
     title: "Super Mario Advance 2: Super Mario World",
-    developer: "Nintendo EAD",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2001-12-14",
@@ -499,7 +461,6 @@ export const games: Game[] = [
   },
   {
     title: "Super Mario Advance 3: Yoshi's Island",
-    developer: "Nintendo R&D2",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2002-09-20",
@@ -511,7 +472,6 @@ export const games: Game[] = [
   },
   {
     title: "Super Mario Advance 4: Super Mario Bros. 3",
-    developer: "Nintendo R&D2",
     publisher: "Nintendo",
     platform: "Game Boy Advance",
     releaseDate: "2003-07-11",
@@ -523,7 +483,6 @@ export const games: Game[] = [
   },
   {
     title: "SimCity",
-    developer: "Nintendo / Maxis",
     publisher: "Nintendo",
     platform: "Super Nintendo",
     releaseDate: "1991-04-26",
@@ -536,7 +495,6 @@ export const games: Game[] = [
   },
   {
     title: "Pilotwings",
-    developer: "Nintendo EAD",
     publisher: "Nintendo",
     platform: "Super Nintendo",
     releaseDate: "1990-11-21",
@@ -549,7 +507,6 @@ export const games: Game[] = [
   },
   {
     title: "Kirby's Dream Course",
-    developer: "HAL Laboratory",
     publisher: "Nintendo",
     platform: "Super Nintendo",
     releaseDate: "1994-09-21",
@@ -562,7 +519,6 @@ export const games: Game[] = [
   },
   {
     title: "Balloon Fight",
-    developer: "Nintendo R&D1",
     publisher: "Nintendo",
     platform: "NES",
     releaseDate: "1985-01-22",
@@ -575,7 +531,6 @@ export const games: Game[] = [
   },
   {
     title: "Excitebike",
-    developer: "Nintendo R&D1",
     publisher: "Nintendo",
     platform: "NES",
     releaseDate: "1984-11-30",
@@ -588,7 +543,6 @@ export const games: Game[] = [
   },
   {
     title: "Ice Climber",
-    developer: "Nintendo R&D1",
     publisher: "Nintendo",
     platform: "NES",
     releaseDate: "1985-01-30",
@@ -601,7 +555,6 @@ export const games: Game[] = [
   },
   {
     title: "Bust-A-Move 4",
-    developer: "Taito",
     publisher: "Acclaim Entertainment",
     platform: "PlayStation",
     releaseDate: "1998-08-06",
@@ -614,7 +567,6 @@ export const games: Game[] = [
   },
   {
     title: "Crash Bandicoot",
-    developer: "Naughty Dog",
     publisher: "Sony Computer Entertainment",
     platform: "PlayStation",
     releaseDate: "1996-09-09",
@@ -627,7 +579,6 @@ export const games: Game[] = [
   },
   {
     title: "CTR: Crash Team Racing",
-    developer: "Naughty Dog",
     publisher: "Sony Computer Entertainment",
     platform: "PlayStation",
     releaseDate: "1999-09-30",
@@ -640,7 +591,6 @@ export const games: Game[] = [
   },
   {
     title: "Toy Story 2: Buzz Lightyear to the Rescue!",
-    developer: "Traveller's Tales",
     publisher: "Activision",
     platform: "PlayStation",
     releaseDate: "1999-11-16",
@@ -654,7 +604,6 @@ export const games: Game[] = [
   },
   {
     title: "Roll Away",
-    developer: "Game Design Sweden",
     publisher: "Sony Computer Entertainment",
     platform: "PlayStation",
     releaseDate: "1998-07-10",
@@ -667,7 +616,6 @@ export const games: Game[] = [
   },
   {
     title: "Harry Potter and the Sorcerer's Stone",
-    developer: "Argonaut Games",
     publisher: "Electronic Arts",
     platform: "PlayStation",
     releaseDate: "2001-11-15",
@@ -680,7 +628,6 @@ export const games: Game[] = [
   },
   {
     title: "PaRappa the Rapper",
-    developer: "NanaOn-Sha",
     publisher: "Sony Computer Entertainment",
     platform: "PlayStation",
     releaseDate: "1996-12-06",
@@ -693,7 +640,6 @@ export const games: Game[] = [
   },
   {
     title: "Silent Hill",
-    developer: "Team Silent (Konami)",
     publisher: "Konami",
     platform: "PlayStation",
     releaseDate: "1999-01-31",
@@ -707,7 +653,6 @@ export const games: Game[] = [
   },
   {
     title: "Spider-Man",
-    developer: "Neversoft",
     publisher: "Activision",
     platform: "PlayStation",
     releaseDate: "2000-08-31",
@@ -720,7 +665,6 @@ export const games: Game[] = [
   },
   {
     title: "Spyro the Dragon",
-    developer: "Insomniac Games",
     publisher: "Sony Computer Entertainment",
     platform: "PlayStation",
     releaseDate: "1998-09-09",
@@ -733,7 +677,6 @@ export const games: Game[] = [
   },
   {
     title: "Tomb Raider",
-    developer: "Core Design",
     publisher: "Eidos Interactive",
     platform: "PlayStation",
     releaseDate: "1996-11-14",
@@ -747,7 +690,6 @@ export const games: Game[] = [
   },
   {
     title: "Metal Gear Solid",
-    developer: "Konami Computer Entertainment Japan",
     publisher: "Konami",
     platform: "PlayStation",
     releaseDate: "1998-09-03",
@@ -761,7 +703,6 @@ export const games: Game[] = [
   },
   {
     title: "Harry Potter and the Chamber of Secrets",
-    developer: "Eurocom",
     publisher: "Electronic Arts",
     platform: "PlayStation",
     releaseDate: "2002-11-15",
@@ -774,7 +715,6 @@ export const games: Game[] = [
   },
   {
     title: "Scooby-Doo Mystery",
-    developer: "Argonaut Software",
     publisher: "Acclaim Entertainment",
     platform: "SNES",
     releaseDate: "1995-11-01",
@@ -783,6 +723,6 @@ export const games: Game[] = [
         "Plataformas",
         "Aventura"
     ],
-    description: ""
+    description: "Intenté lograr un balance entre recomendaciones mías, clásicos, juegos que ya sé que te gustan, juegos que tal vez te gusten y juegos basados en cosas que te gustan. Lamentablemente, estos últimos usualmente son juegos terribles e intenté "
   }
 ]

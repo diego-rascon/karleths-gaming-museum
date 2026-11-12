@@ -1,6 +1,5 @@
 export type Game = {
 	title: string;
-	developer: string;
 	publisher: string;
 	platform: string;
 	releaseDate: string;
