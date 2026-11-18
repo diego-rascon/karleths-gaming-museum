@@ -38,10 +38,10 @@
 			class="absolute right-0 flex -translate-y-1/2 items-center gap-2"
 			style:top="{progress * 100}%"
 		>
-			<span class="bg-primary px-2 py-1 font-press-start-2p text-xs text-white">
+			<span class="bg-secondary px-2 py-1 font-press-start-2p text-xs text-background">
 				{games[index - 1].releaseDate.slice(0, 4)}
 			</span>
-			<div class="h-6 w-3 bg-primary"></div>
+			<div class="h-6 w-3 bg-secondary"></div>
 		</div>
 	</nav>
 {/if}
